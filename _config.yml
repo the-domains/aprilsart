@@ -1,7 +1,7 @@
 name: AprilsArt
 favicon: null
 layout_spectrum: 0.5613330407068133
-typography_spectrum: 0.15656791860237718
+typography_spectrum: 0.12184
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#9c87d4'
+    - '#3e5600'
+    - '#e2e9fd'
+    - '#eea000'
   brandStrength: 0.8892457040492445
   lightness: 0.0613054190762341
   saturation: 0.28335908940061927
